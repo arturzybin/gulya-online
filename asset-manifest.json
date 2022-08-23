@@ -1,16 +1,11 @@
 {
   "files": {
-    "main.css": "/gulya-online/static/css/main.073c9b0a.css",
-    "main.js": "/gulya-online/static/js/main.56e273a3.js",
-    "static/js/787.7a84753c.chunk.js": "/gulya-online/static/js/787.7a84753c.chunk.js",
-    "static/media/logo.svg": "/gulya-online/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/gulya-online/static/js/main.e6a8668a.js",
+    "static/media/dove.png": "/gulya-online/static/media/dove.29316b0d0c10bbe252eb.png",
     "index.html": "/gulya-online/index.html",
-    "main.073c9b0a.css.map": "/gulya-online/static/css/main.073c9b0a.css.map",
-    "main.56e273a3.js.map": "/gulya-online/static/js/main.56e273a3.js.map",
-    "787.7a84753c.chunk.js.map": "/gulya-online/static/js/787.7a84753c.chunk.js.map"
+    "main.e6a8668a.js.map": "/gulya-online/static/js/main.e6a8668a.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.56e273a3.js"
+    "static/js/main.e6a8668a.js"
   ]
 }
