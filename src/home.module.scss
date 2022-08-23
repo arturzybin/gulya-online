@@ -1,0 +1,32 @@
+.container {
+    overflow: hidden;
+
+    width: 100vw;
+    padding-top: 20vh;
+
+    text-align: center;
+}
+
+.logo {
+    width: 150px;
+    margin-bottom: 30px;
+}
+
+.title {
+    font-size: 50px;
+
+    margin-bottom: 30px;
+}
+
+.image {
+    display: block;
+
+    width: 800px;
+    height: 400px;
+
+    object-fit: contain;
+}
+
+.row {
+    width: 100vw;
+}
